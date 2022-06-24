@@ -1,4 +1,0 @@
-#!/bin/bash
-ls -al
-pwd
-ls -l /boot
